@@ -9,6 +9,8 @@ public class BottomNavigationBean {
     public int resId;
     public int color;
 
+    private int anInt;
+
     public BottomNavigationBean(String text, int resId, int color) {
         this.text = text;
         this.resId = resId;
