@@ -3,7 +3,7 @@ package com.example.wxj;
 /**
  * Created by hwt on 2016/3/18.
  */
-public class BottomNavigationBean {
+public class BottomNavigationBeans {
 
     public String text;
     public int resId;
@@ -11,7 +11,7 @@ public class BottomNavigationBean {
 
     private int a;
 
-    public BottomNavigationBean(String text, int resId, int color) {
+    public BottomNavigationBeans(String text, int resId, int color) {
         this.text = text;
         this.resId = resId;
         this.color = color;
