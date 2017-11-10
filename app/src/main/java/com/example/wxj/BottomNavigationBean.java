@@ -9,7 +9,7 @@ public class BottomNavigationBean {
     public int resId;
     public int color;
 
-    private int anInt;
+    private int a;
 
     public BottomNavigationBean(String text, int resId, int color) {
         this.text = text;
